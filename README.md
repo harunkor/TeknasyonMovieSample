@@ -18,6 +18,9 @@ Checked List
 
 
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=u4ah7Oxt4UQ"><img src="https://i9.ytimg.com/vi/u4ah7Oxt4UQ/mq2.jpg?sqp=CPzK5ucF&rs=AOn4CLABOYwkSyYVR0FJI27YO7p_KkdUfw" alt="IMAGE ALT TEXT"></a>
+</div>
  
 ![](https://github.com/harunkor/TeknasyonMovieSample/blob/master/Screenshot_1559861297.png?raw=true)
 
