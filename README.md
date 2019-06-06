@@ -10,7 +10,9 @@ Checked List
 - [x] Depency Injectiopn (Dagger)
 - [x] Retrofit
 - [x] Picasso
-- [x] Recyclerview
+- [x] Recyclerview 
+- [x] Google Pagging library (Infinitive scroll list - Pagination)
+
 
 
 
