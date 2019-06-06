@@ -4,15 +4,14 @@ TMDB - Teknasyon Movie Sample
 
 Checked List
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] MVVM-Databinding-LiveData
+- [x] ConstraintLayout
+- [x] Kotlin
+- [x] Depency Injectiopn (Dagger)
+- [x] Retrofit
+- [x] Picasso
+- [x] Recyclerview
+
 
 
 
