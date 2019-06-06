@@ -15,7 +15,9 @@ Checked List
 
 
 * CLICK PHOTO YOUTUBE VIDEO
+
 [![VIDEO HERE](https://i9.ytimg.com/vi/u4ah7Oxt4UQ/mq2.jpg?sqp=CPzK5ucF&rs=AOn4CLABOYwkSyYVR0FJI27YO7p_KkdUfw)](https://www.youtube.com/watch?v=u4ah7Oxt4UQ)
+
  CLICK PHOTO YOUTUBE VIDEO *
 
 
