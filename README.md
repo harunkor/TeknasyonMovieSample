@@ -14,7 +14,7 @@ Checked List
 - [x] Google Pagging library (Infinitive scroll list - Pagination)
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=u4ah7Oxt4UQ)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/upload_thumbnail?v=u4ah7Oxt4UQ&t=hqdefault&ts=1559864712831)](https://www.youtube.com/watch?v=u4ah7Oxt4UQ)
 
 
 
